@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**mohd-fa/mohd-fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![@mohd_fa_'s Holopin board](https://holopin.me/mohd_fa_)](https://holopin.io/@mohd_fa_)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**mohd-fa/mohd-fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
