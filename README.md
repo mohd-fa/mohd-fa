@@ -4,7 +4,7 @@
 - 🌱 Currently learning python, django and flutter
 - 💞️ Looking to collaborate on django and flutter projects
 - ⚡ Solve problems on leetcode and hackerrank in free time
-- 📫 Reach me @ [![Linkedin](https://img.shields.io/badge/-mohd--fa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-fa)
+- 📫 Reach me [![Linkedin](https://img.shields.io/badge/-mohd--fa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-fa)
 
 ## ⚒️ Languages and Tools :
 
