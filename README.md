@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @mohd-fa
 
-- 👀 Interested in Competitive Programming, Web and App development
-- 🌱 Currently learning python, django and flutter
-- 💞️ Looking to collaborate on django and flutter projects
+- 👀 Competitive Programming, Web and App development
+- 🌱 Currently learning Python, Django and Flutter
+- 💞️ Looking to collaborate on Django and Flutter projects
 - ⚡ Solve problems on leetcode and hackerrank in free time
-- [![Linkedin](https://img.shields.io/badge/-mohd--fa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-fa) [![Instagram](https://img.shields.io/badge/-mohd__fa__-dd2a7b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mohd_fa_) [![Mail](https://img.shields.io/badge/-mohammedfazalabdulla@gmail.com-005ff9?style=flat&logo=Mail.Ru&logoColor=white)](mailto:mohammedfazalabdulla@gmail.com)
+- [![Linkedin](https://img.shields.io/badge/-mohd--fa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-fa) [![Instagram](https://img.shields.io/badge/-mohd__fa__-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mohd_fa_) [![Mail](https://img.shields.io/badge/-mohammedfazalabdulla@gmail.com-005ff9?style=flat&logo=Mail.Ru&logoColor=white)](mailto:mohammedfazalabdulla@gmail.com)
 
 ## ⚒️ Languages and Tools :
 
@@ -34,3 +34,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohd-fa&theme=dark)](https://git.io/streak-stats)\
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohd-fa&show_icons=true&theme=dark&icon_color=fa8b00)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-fa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
