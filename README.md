@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @mohd-fa
 
-- 👀 Competitive Programming, Web and App development
+- 👀 Competitive Programming, Web and App Development
 - 🌱 Currently learning Python, Django and Flutter
 - 💞️ Looking to collaborate on Django and Flutter projects
 - ⚡ Solve problems on leetcode and hackerrank in free time
