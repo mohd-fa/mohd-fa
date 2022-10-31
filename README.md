@@ -8,7 +8,7 @@
 
 ## ⚒️ Languages and Tools :
 
-<p>
+<p><a href="#">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" **alt="dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
@@ -27,12 +27,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" **alt="android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" **alt="apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" **alt="arduino" width="40" height="40"/>&nbsp;
-  
+</a>  
 </p>
 
 ## 🔥 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohd-fa&theme=dark)](https://git.io/streak-stats)\
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohd-fa&show_icons=true&theme=dark&icon_color=fa8b00)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-fa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohd-fa&theme=dark)](#)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohd-fa&show_icons=true&theme=dark&icon_color=fa8b00)](https://github.com/anuraghazra/github-readme-stats)(#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-fa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)](#)
 
